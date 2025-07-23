@@ -1,0 +1,258 @@
+{
+    "bd051ae8": {
+        "name": "sarveash",
+        "contact": "63556565567",
+        "order_id": "1217",
+        "type": [
+            [
+                "pants",
+                "6",
+                "only wash",
+                42
+            ],
+            [
+                [
+                    "shirt",
+                    "7",
+                    "wash,dry and iron",
+                    0
+                ],
+                [
+                    "pant",
+                    "6",
+                    "wash and dry",
+                    105
+                ],
+                [
+                    "t shirt",
+                    "7",
+                    "only wash",
+                    60
+                ]
+            ]
+        ],
+        "Total Cloths": 6,
+        "Total": 42,
+        "Date": "2024-06-13",
+        "Delivary_Date": "2024-06-15",
+        "priority": "Medium",
+        "payment": "Paid",
+        "delivery": "Completed"
+    },
+    "3dfba389": {
+        "name": "pravina",
+        "contact": "76465454657",
+        "order_id": "1238",
+        "type": [
+            [
+                "pants",
+                "5",
+                "wash and dry",
+                50
+            ],
+            [
+                "t shirt",
+                "3",
+                "wash and dry",
+                30
+            ]
+        ],
+        "Total Cloths": 8,
+        "Total": 80,
+        "Date": "2024-06-13",
+        "Delivary_Date": "2024-06-15",
+        "priority": "Medium",
+        "payment": "Paid",
+        "delivery": "Completed"
+    },
+    "fa6306e2": {
+        "name": "shaam AS",
+        "contact": "5465465476",
+        "order_id": "6294",
+        "type": [
+            [
+                "jeans",
+                "7",
+                "wash and dry",
+                70
+            ]
+        ],
+        "Total Cloths": 7,
+        "Total": 70,
+        "Date": "2024-06-13",
+        "Delivary_Date": "2024-06-15",
+        "priority": "Medium",
+        "payment": "Paid",
+        "delivery": "Completed"
+    },
+    "bb0af1f1": {
+        "name": "koushik",
+        "contact": "6564354354",
+        "order_id": "0339",
+        "type": [
+            [
+                "t shirt",
+                "6",
+                "dry wash",
+                42
+            ]
+        ],
+        "Total Cloths": 6,
+        "Total": 42,
+        "Date": "2024-06-13",
+        "Delivary_Date": "2024-06-15",
+        "priority": "Medium",
+        "payment": "Paid",
+        "delivery": "Completed"
+    },
+    "9941ac84": {
+        "name": "adhi",
+        "contact": "65365476476",
+        "order_id": "9772",
+        "type": [
+            [
+                "pants",
+                "7",
+                "wash and dry",
+                70
+            ]
+        ],
+        "Total Cloths": 7,
+        "Total": 70,
+        "Date": "2024-06-13",
+        "Delivary_Date": "2024-06-15",
+        "priority": "Medium",
+        "payment": "Paid",
+        "delivery": "Pending"
+    },
+    "0b4f5f35": {
+        "name": "nick",
+        "contact": "8474746372",
+        "order_id": "9770",
+        "type": [
+            [
+                "shirt",
+                "4",
+                "wash,dry and iron",
+                60
+            ],
+            [
+                "t shirt",
+                "7",
+                "only wash",
+                49
+            ]
+        ],
+        "Total Cloths": 11,
+        "Total": 109,
+        "Date": "2024-06-21",
+        "Delivary_Date": "2024-06-23",
+        "priority": "Low",
+        "payment": "Paid",
+        "delivery": "Completed"
+    },
+    "ab884fd2": {
+        "name": "john",
+        "contact": "8364637722",
+        "order_id": "0418",
+        "type": [
+            [
+                "shirt",
+                "7",
+                "wash,dry and iron",
+                105
+            ],
+            [
+                "pants",
+                "6",
+                "wash and dry",
+                60
+            ]
+        ],
+        "Total Cloths": 13,
+        "Total": 165,
+        "Date": "2024-06-21",
+        "Delivary_Date": "2024-06-23",
+        "priority": "High",
+        "payment": "Paid",
+        "delivery": "Completed"
+    },
+    "4787d6f6": {
+        "name": "shanky",
+        "contact": "8734824844",
+        "order_id": "6227",
+        "type": [],
+        "Total Cloths": 22,
+        "Total": 234,
+        "Date": "2024-06-16",
+        "Delivary_Date": "2024-06-18",
+        "priority": "Low",
+        "payment": "Paid",
+        "delivery": "Completed"
+    },
+    "e94f1302": {
+        "name": "jai",
+        "contact": "1234567890",
+        "order_id": "1507",
+        "type": [
+            [
+                "cotton shirt",
+                "7",
+                "wash,dry and iron",
+                105
+            ],
+            [
+                "pants",
+                "6",
+                "wash and dry",
+                60
+            ]
+        ],
+        "Total Cloths": 13,
+        "Total": 165,
+        "Date": "2024-06-21",
+        "Delivary_Date": "2024-06-23",
+        "payment": "Pending",
+        "delivery": "Pending",
+        "priority": "Low"
+    },
+    "26dad749": {
+        "name": "abhi",
+        "contact": "7466383639",
+        "order_id": "6759",
+        "type": [],
+        "Total Cloths": 14,
+        "Total": 116,
+        "Date": "2024-06-21",
+        "Delivary_Date": "2024-06-23",
+        "payment": "Paid",
+        "delivery": "Completed",
+        "priority": "Low"
+    },
+    "4ae3cafc": {
+        "name": "niteesh",
+        "contact": "7545678976",
+        "order_id": "7839",
+        "type": [
+            [
+                "shirt",
+                "7",
+                "wash,dry and iron",
+                105
+            ],
+            [
+                "shorts",
+                "6",
+                "wash and dry",
+                60
+            ]
+        ],
+        "Total Cloths": 13,
+        "Total": 165,
+        "Date": "2024-06-21",
+        "Delivary_Date": "2024-06-23",
+        "payment": "Pending",
+        "delivery": "Pending",
+        "priority": "High"
+    }
+}
